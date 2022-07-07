@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lo999
+- 👀 I’m interested in foreign languages and php web development, especially in Laravel. Check out the website I built -- https://my-mesa.org
+- 💞️ I’m looking to collaborate on web development for important causes & computational linguistics projects
+- 📫 Reach me by email at samsadatwexler@gmail.com
